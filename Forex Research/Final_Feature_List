@@ -1,0 +1,44 @@
+Technical Analysis Features
+
+Average True Range (ATR)
+Periods:
+14, 18, 24, 34, 45, 60
+
+Relative Strength Index (RSI)
+Periods:
+25, 35, 55
+
+Williams' %R:
+Periods:
+55
+
+Directional Movement Index (DX)
+
+Moving Average Convergence/Divergence (MACD)
+
+Volatility (Using frac_diff instead of log returns)
+Periods:
+15, 31, 50
+
+Log frac_diff Prices (Using the frac_diff series)
+Periods:
+1, 2, 3, 4, 5
+
+1-day Rate-Of-Change of a Triple Smooth EMA (TRIX)
+Periods:
+15, 30, 45, 60
+
+Ultimate Oscillator (ULTOSC)
+
+Fractionally Differentiated Features:
+
+Frac_diff (closing prices)
+
+(Bollinger Bands)
+Upper_diff
+Middle_diff
+Lower_diff
+
+(Moving Averages)
+EMA_diff
+WMA_diff
