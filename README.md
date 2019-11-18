@@ -1,4 +1,6 @@
 # Financial-Machine-Learning
+
+## About
 This notebook explores many of the concepts presented in the book "Advances in Financial Machine Learning" by Marcos Lopez de Prado. 
 
 I read de Prado's book and created this notebook a while back with the goal being to get a good understanding of how ML was being applied in the financial space and the many domain specific challenges that come along with it.
